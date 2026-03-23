@@ -1,0 +1,22 @@
+{
+  "name": "IRL Team",
+  "short_name": "IRL",
+  "description": "Аналитика, профиль, идеи и хаб команды IRL",
+  "theme_color": "#04080f",
+  "background_color": "#04080f",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/globe.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "finance"],
+  "prefer_related_applications": false
+}

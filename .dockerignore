@@ -1,0 +1,13 @@
+.next
+out
+node_modules
+build
+coverage
+.DS_Store
+*.log
+.env*
+
+# git
+.git
+.gitignore
+
